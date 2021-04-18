@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yarlia</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-<p align="left"> <a href="https://twitter.com/hiyarlia" target="blank"><img src="https://img.shields.io/twitter/follow/hiyarlia?logo=twitter&style=for-the-badge" alt="hiyarlia" /></a> <a href="https://twitch.tv/hiyarlia" target="blank"><img src="https://img.shields.io/twitch/status/hiyarlia?style=social" alt="hiyarlia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hiyarlia" target="blank"><img src="https://img.shields.io/twitter/follow/hiyarlia?logo=twitter&style=for-the-badge" alt="hiyarlia" /></a> <a href="https://twitch.tv/hiyarlia" target="blank"><img src="https://img.shields.io/twitch/status/hiyarlia?logo=twitch&style=for-the-badge" alt="hiyarlia" /></a> </p>
 
 - 🔭 I’m currently working on **(soon)**
 
