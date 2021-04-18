@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://yarlia.fr](yarlia.fr)
+- 👨‍💻 All of my projects are available at [yarlia.fr](https://yarlia.fr)
 
 - 📫 How to reach me **yarlia.off@gmail.com**
 
