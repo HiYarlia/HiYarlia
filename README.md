@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shuvly</h1>
-<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="center"> <a href="https://twitter.com/shuvlyy" target="blank"><img src="https://img.shields.io/twitter/follow/shuvlyy?logo=twitter&style=for-the-badge" alt="hiyarlia" /></a></p>
 
